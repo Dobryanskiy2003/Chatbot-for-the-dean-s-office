@@ -21,7 +21,7 @@ Telegram-бот для ответов на часто задаваемые во�
 
 2. **Клонируйте репозиторий:**
 ```bash
-git clone https://github.com/ваш-username/Chatbot-for-the-dean-s-office.git
+git clone https://github.com/Dobryanskiy2003/Chatbot-for-the-dean-s-office.git
 cd Chatbot-for-the-dean-s-office
 ```
 
